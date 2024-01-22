@@ -1,4 +1,4 @@
-# Proyecto FastAPI
+# Proyecto Tribal Live Coding 
 
 Este proyecto utiliza [FastAPI](https://fastapi.tiangolo.com/) para crear una API que obtiene chistes aleatorios de Chuck Norris desde [api.chucknorris.io](https://api.chucknorris.io/jokes/random/). El código principal se encuentra en el archivo `main.py`. A continuación, se proporcionan instrucciones básicas para configurar y ejecutar el proyecto.
 

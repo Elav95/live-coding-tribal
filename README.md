@@ -2,14 +2,6 @@
 
 Este proyecto utiliza [FastAPI](https://fastapi.tiangolo.com/) para crear una API que obtiene chistes aleatorios de Chuck Norris desde [api.chucknorris.io](https://api.chucknorris.io/jokes/random/). El código principal se encuentra en el archivo `main.py`. A continuación, se proporcionan instrucciones básicas para configurar y ejecutar el proyecto.
 
-## Requisitos
-
-Asegúrate de tener instaladas las dependencias necesarias. Puedes hacerlo ejecutando el siguiente comando:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Entorno Virtual
 Se recomienda utilizar un entorno virtual para evitar conflictos con otras dependencias. Sigue los pasos a continuación para configurar y activar un entorno virtual:
 
@@ -49,6 +41,14 @@ Para desactivar el entorno virtual, simplemente ejecuta deactivate.
 
 ```bash
 deactivate
+```
+
+## Requisitos
+
+Asegúrate de tener instaladas las dependencias necesarias. Puedes hacerlo ejecutando el siguiente comando:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Ejecución
